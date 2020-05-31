@@ -1,0 +1,21 @@
+/*definindo a fonte dos textos*/
+body {
+color: #333333;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+    /*adicionando um fundo de imagem ao titulo*/
+    h1 {
+    background-image: url(C:/Users/User/Desktop/desenvolvedor/curso.web/mirrorfashion/img/sobre-background.jpg);
+    }
+    /*adicionando uma borda inferior ao subititulo da pagina sobre*/
+    h2 {
+    border-bottom: 2px solid #333333;
+    }
+    figure{
+        background-color: #f2eded;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+    figcaption{
+        font-style: italic;
+    }
